@@ -1,5 +1,3 @@
-/*Petrica Bianca Gabriela, 323CB*/
-
 	Pentru realizarea temei am folosit design pattern-urile Observer, 
 Visitor si SingletonFactory. 
 	Pentru realizarea comenzilor am creat clasa SubjectF cu SingletonFactory. 
